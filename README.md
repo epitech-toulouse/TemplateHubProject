@@ -30,7 +30,7 @@ _Who can add picture or schema_
 
 ### Who are the users
 _What kind of actor do you have ?_ <br/>
-_What kind of interactions will have you ?_
+_What kind of interactions will you have ?_
 
 ## Deployment
 |Deployment||
@@ -43,4 +43,8 @@ _What are the production environnement (physic or virtual) ?_<br/>
 _What are the exterior actors ? Who will use your project ?_
 
 ### Using technologies (extern dependency)
-_Tell us witch technologies do you want use ? Do you want learn ?_<br/>
+_Tell us which technologies do you want use or learn ?_<br/>
+
+## What's next ?
+Copy and fill in the document at `https://github.com/Styvak/TemplateHubProject/blob/master/README.md`<br/>
+You need to create your own project on intra on B2-HUB module. 
