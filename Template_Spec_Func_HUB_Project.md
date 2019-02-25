@@ -37,7 +37,7 @@ The software must implement the following requirements and are organized in four
 |**REQ_DATA_002**|Test|
 
 # Delivery conditions
-|Key|Value|
+|||
 |---:|:---|
 |**Repository name**||
 |**Language**||
@@ -46,7 +46,11 @@ The software must implement the following requirements and are organized in four
 
 ## Documentary:
 The delivery package must contain the following documents:<br/>
-To do
+* _README.md_ witch is the first delivery of projet to defined context
+* Code and it's documentation using doxygen format.
+* _Template_Spec_Func_HUB_Project.md_ fill with all details about requirement and functionnalities. (Tech3 only)
+* _Software_Architecture_Specifications.md_ fill with **HOW** the projects works (for each parts). (Tech3 only)
+
 
 # Planning
 The planning of the project consists of several deadlines, T0 is the bebinning of the project:
