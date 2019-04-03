@@ -1,5 +1,5 @@
 # Pack HUB
-|Sumary||
+|Sumary|_Reverve to pedagogical team's_|
 |---:|:---|
 |**Name of the project**|_name_|
 |**Head of project**|_login@epitech.eu_|
@@ -22,13 +22,16 @@ _If you know, give us name merber's_
 ## Project functionnality
 ### Requirements
 _What the project **MUST** do ?_<br/>
-* 
+* _requirement1_
+* _requirement2_
 
 _What the project **SHOULD** do ?_<br/>
-*
+* _requirement1_
+* _requirement2_
 
 _What the project **COULD** do ?_<br/>
-*
+* _requirement1_
+* _requirement2_
 
 _You can add picture or schema if you have IHM requirement_
 
