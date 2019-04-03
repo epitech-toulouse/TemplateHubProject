@@ -7,7 +7,7 @@
 
 ## Project identity
 ### Why this project ?
-_Explain the begenning of the project. How did you have this idea ?_<br/>
+_Explain the beginning of the project. How did you have this idea ?_<br/>
 
 ### What is interesting for you in this project ?
 _What do you like in this project ?_ <br/>
@@ -21,12 +21,16 @@ _If you know, give us name merber's_
 
 ## Project functionnality
 ### Requirements
-_Give us the list of requirement._<br/> 
 _What the project **MUST** do ?_<br/>
-_What the project **SHOULD** do ?_<br/>
-_What the project **COULD** do ?_<br/>
+* 
 
-_Who can add picture or schema_
+_What the project **SHOULD** do ?_<br/>
+*
+
+_What the project **COULD** do ?_<br/>
+*
+
+_You can add picture or schema if you have IHM requirement_
 
 ### Who are the users
 _What kind of actor do you have ?_ <br/>
@@ -46,5 +50,6 @@ _What are the exterior actors ? Who will use your project ?_
 _Tell us which technologies do you want use or learn ?_<br/>
 
 ## What's next ?
-Copy and fill in the document at `https://github.com/Styvak/TemplateHubProject/blob/master/README.md`<br/>
-You need to create your own project on intra on B2-HUB module. 
+1) Copy and fill in this document<br/>
+2) Complete all italic part !
+3) You need to create your own project on intra on BX-HUB module. 
