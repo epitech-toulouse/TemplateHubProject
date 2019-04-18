@@ -1,58 +1,65 @@
 # Pack HUB
 |Sumary|_Reverve to pedagogical team's_|
 |---:|:---|
-|**Name of the project**|_name_|
+|**Project name**|_name_|
 |**Head of project**|_login@epitech.eu_|
 |**Promo**|_Tech1, Tech2, Tech3_|
 
 ## Project identity
-### Why this project ?
-_Explain the beginning of the project. How did you have this idea ?_<br/>
+### How this project came out?
+_Explain the beginning of the project. How did you have this idea?_<br/>
 
-### What is interesting for you in this project ?
-_What do you like in this project ?_ <br/>
-_What is the goal of this project ?_ <br/>
+### What are the projects' points of interests?
+_What do you like in this project?_<br/>
+_What is the goal of this project?_<br/>
 
-### Project management
-_How many people do you need for this project ? **Need to be justified**_<br/>
-_If you know, give us name merber's_
+## Project management
+### Team
+_How many people do you need for this project? **Need to be justified**_<br/>
+_If you know, fill in their names_<br/>
 * _member1@epitech.eu_
 * _member2@epitech.eu_
 
-## Project functionnality
+### Organisation and tools
+_How will you be organised 
+
+## Project functionnalities and qualities
 ### Requirements
-_What the project **MUST** do ?_<br/>
-* _requirement1_
-* _requirement2_
+What **MUST** the project do?<br/>
+* _requirement 1_
+* _requirement 2_
+* _..._
 
-_What the project **SHOULD** do ?_<br/>
-* _requirement1_
-* _requirement2_
+What **SHOULD** the project do?<br/>
+* _requirement 1_
+* _requirement 2_
+* _..._
 
-_What the project **COULD** do ?_<br/>
-* _requirement1_
-* _requirement2_
+What **COULD** the project do?<br/>
+* _requirement 1_
+* _requirement 2_
+* _..._
 
-_You can add picture or schema if you have IHM requirement_
+_You can add pictures or schemas if you have IHM requirement_
 
 ### Who are the users
-_What kind of actor do you have ?_ <br/>
-_What kind of interactions will you have ?_
+_Who will use your product?_<br/>
+_Who will you be interacting with?_<br/>
 
 ## Deployment
 |Deployment||
 |---:|:---|
-|**Language**|_C/C++, python, HTML/CSS/PHP/js, Java ?_|
-|**Platform target**|_Windows, linux, web, Mobile ?_|
+|**Language**|_C/C++, python, HTML/CSS/PHP/js, Java_|
+|**Platform target**|_Windows, linux, web, Mobile_|
 
-### Making
-_What are the production environnement (physic or virtual) ?_<br/>
-_What are the exterior actors ? Who will use your project ?_
+### Production environment
+_Which platform or device will you product run on?_<br/>
+_How will you deploy your product on the target platform to make it accessible to users?_<br/>
 
-### Using technologies (extern dependency)
-_Tell us which technologies do you want use or learn ?_<br/>
+### Hardware and software
+_Will you use hardware components? if so, specify._<br/>
+_Will you use external software product or off-the-shelf software? if so, specify._<br/>
 
-## What's next ?
-1) Copy and fill in this document<br/>
-2) Complete all italic part !
+## How to fill in this README?
+2) Erase or replace all italic parts!
 3) You need to create your own project on intra on BX-HUB module. 
