@@ -1,5 +1,5 @@
 # Pack HUB
-|Sumary|_Reverve to pedagogical team's_|
+|Sumary||
 |---:|:---|
 |**Project name**|_name_|
 |**Head of project**|_login@epitech.eu_|
@@ -21,7 +21,7 @@ _If you know, fill in their names_<br/>
 * _member2@epitech.eu_
 
 ### Organisation and tools
-_How will you be organised 
+_How will you be organised_ 
 
 ## Project functionnalities and qualities
 ### Requirements
@@ -40,7 +40,7 @@ What **COULD** the project do?<br/>
 * _requirement 2_
 * _..._
 
-_You can add pictures or schemas if you have IHM requirement_
+`You can add pictures or schemas if you have IHM requirement`
 
 ### Who are the users
 _Who will use your product?_<br/>
@@ -61,5 +61,8 @@ _Will you use hardware components? if so, specify._<br/>
 _Will you use external software product or off-the-shelf software? if so, specify._<br/>
 
 ## How to fill in this README?
-2) Erase or replace all italic parts!
-3) You need to create your own project on intra on BX-HUB module. 
+ - Erase or replace all italic parts!
+
+## Next step
+ - Fill in `Template_Spec_Func_HUB_Project.md`
+ - Fill in `Software_Architecture_Specifications.md` (if needed)
