@@ -65,4 +65,3 @@ _Will you use external software product or off-the-shelf software? if so, specif
 
 ## Next step
  - Fill in `Template_Spec_Func_HUB_Project.md`
- - Fill in `Software_Architecture_Specifications.md` (if needed)
